@@ -1,0 +1,1 @@
+This is the file to be encoded. For executing encoder.java, write "java encoder 10". For executing decoder.java, write "java decoder 10".
